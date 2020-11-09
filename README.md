@@ -4,7 +4,7 @@ I am mostly interested in systems programming and cloud infrastructure and find 
 
 - 🔭 I just started working my first nvim plugin : [gitstatus.lua]
 
-- 📚 I’m studying software engineering at 42, France.
+- 📚 I’m studying software engineering at [42](https://www.42.fr/), France.
 
 - 🌱 I’m currently learning Rust and all things infrastructure.
 
