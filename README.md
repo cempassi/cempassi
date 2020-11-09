@@ -1,6 +1,6 @@
 ## Hi, I'm Cedric! 👋🏿
 
-I am mostly interested in systems programming and cloud infrastructure. I find great joy in configuring my vim.
+I am mostly interested in systems programming and cloud infrastructure and find great joy in configuring my vim.
 
 - 🔭 I just started working my first nvim plugin : [gitstatus.lua]
 
