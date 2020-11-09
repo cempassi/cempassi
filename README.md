@@ -12,9 +12,9 @@ I am mostly interested in systems programming and cloud infrastructure.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="cempassi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="cempassi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="cempassi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/>
 <br/>
 
@@ -32,9 +32,9 @@ I am mostly interested in systems programming and cloud infrastructure.
 <br/>
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.cempassi.vercel.app/api?username=cempassi&theme=prussian&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.cempassi.vercel.app/api/top-langs/?username=cempassi&theme=prussian&layout=compact" />
+<a href="https://github.com/cempassi">
+  <img height="180em" src="https://github-readme-stats.cempassi.vercel.app/api?username=cempassi&theme=prussian&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.cempassi.vercel.app/api/top-langs/?username=cempassi&theme=prussian&layout=compact&count_private=true" />
 </a>
 
 
