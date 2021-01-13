@@ -2,8 +2,6 @@
 
 I am mostly interested in systems programming and cloud infrastructure. I also find great joy in configuring my vim.
 
-- 🔭 I just started working my first nvim plugin : [ghubvious]
-
 - 📚 I’m studying software engineering at [42](https://www.42.fr/), France.
 
 - 🌱 I’m currently learning Rust and all things infrastructure.
