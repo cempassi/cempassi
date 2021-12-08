@@ -31,8 +31,8 @@ I am mostly interested in systems programming and cloud infrastructure. I also f
 <br/>
 
 <a href="https://github.com/cempassi">
-  <img height="180em" src="https://github-readme-stats.cempassi.vercel.app/api?username=cempassi&theme=prussian&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.cempassi.vercel.app/api/top-langs/?username=cempassi&theme=prussian&layout=compact&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cempassi&theme=prussian&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cempassi&theme=prussian&layout=compact&count_private=true" />
 </a>
 
 
