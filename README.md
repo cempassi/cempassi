@@ -4,15 +4,6 @@ I am mostly interested in systems programming and cloud infrastructure. I also f
 
 - 🌱 I’m currently learning Rust and all things infrastructure.
 
-
-### Connect with me:
-
-[<img align="left" alt="cempassi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="cempassi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="cempassi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br/>
-<br/>
-
 ### Languages and Tools:
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
@@ -31,11 +22,3 @@ I am mostly interested in systems programming and cloud infrastructure. I also f
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cempassi&theme=prussian&show_icons=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cempassi&theme=prussian&layout=compact&count_private=true" />
 </a>
-
-
-
-[ghubvious]: https://github.com/cempassi/ghubvious
-[twitter]: https://twitter.com/cempassi
-[twitter icon]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg
-[instagram]: https://instagram.com/cempassi
-[linkedin]: https://linkedin.com/in/cempassi
